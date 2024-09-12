@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863473392588",
+    "project_id": "mychatap-65dc0",
+    "storage_bucket": "mychatap-65dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863473392588:android:2adbf9037e7d063b811b69",
+        "android_client_info": {
+          "package_name": "com.example.mychatap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ortI9IXoKy5K4jA4w6uaKSXNZtIj1eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863473392588:android:699b4f6ea130c771811b69",
+        "android_client_info": {
+          "package_name": "com.example.mychatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ortI9IXoKy5K4jA4w6uaKSXNZtIj1eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
